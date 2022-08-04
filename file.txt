@@ -1,0 +1,6 @@
+total 32
+-rw-r--r-- 1 root root    85 Feb 14 13:11 16.c
+-rw-r--r-- 1 root root    83 Feb 14 13:13 17.c
+-rw-r--r-- 1 root root    84 Feb 14 13:13 18.c
+-rwxr-xr-x 1 root root 16464 Feb 14 13:13 a.out
+-rw-r--r-- 1 root root     0 Feb 14 13:16 file.txt

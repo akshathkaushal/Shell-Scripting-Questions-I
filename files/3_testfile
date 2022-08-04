@@ -1,0 +1,19 @@
+total 88
+-rw-r--r-- 1 root root   137 Feb  2 11:03 10.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 11.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 12.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 13.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 14.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 15.c
+-rw-r--r-- 1 root root   449 Feb  2 10:44 1.c
+-rw-r--r-- 1 root root   156 Feb  2 10:45 2.c
+-rw-r--r-- 1 root root   234 Feb  2 11:06 3.c
+-rw-r--r-- 1 root root   262 Feb  2 11:11 4.c
+-rw-r--r-- 1 root root   137 Feb  2 10:51 5.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 6.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 7.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 8.c
+-rw-r--r-- 1 root root   137 Feb  2 11:03 9.c
+-rwxr-xr-x 1 root root 16712 Feb  2 11:11 a.out
+drwxr-xr-x 2 root root  4096 Feb  2 11:05 files
+-rw-r--r-- 2 root root   153 Feb  2 10:44 newfile
